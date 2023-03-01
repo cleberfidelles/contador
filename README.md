@@ -1,0 +1,1 @@
+Nesse projeto desenvolvi o aplicativo de demostração do flutter, mudando o tema para dark.
